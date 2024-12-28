@@ -5,7 +5,7 @@ Welcome to the world of fishy business. Businesses are all fishy here. You can d
 [![image](https://github.com/user-attachments/assets/a63cd75d-ec4f-4ba7-99db-cb578658e5fc)](https://github.com/ishmam-br10/Fishy-Business-Game/releases/download/releasewin/fishy.business.exe)
 
 
-[![image](https://github.com/user-attachments/assets/b35c862d-0b3c-479e-a900-2949f1945e54)](google.com)
+[![image](https://github.com/user-attachments/assets/b35c862d-0b3c-479e-a900-2949f1945e54)](https://github.com/ishmam-br10/Fishy-Business-Game/releases/download/releasewin/Fishy.Business.deb)
 
 Windows package ---- Debian package
 How to play:
