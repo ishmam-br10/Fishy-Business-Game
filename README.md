@@ -2,7 +2,7 @@
 Welcome to the world of fishy business. Businesses are all fishy here. You can download the executable version from here,
 
 
-[![image](https://github.com/user-attachments/assets/454d2240-675c-4772-8167-45874c413a5b)](google.com)
+[![image](https://github.com/user-attachments/assets/454d2240-675c-4772-8167-45874c413a5b)](https://github.com/ishmam-br10/Fishy-Business-Game/releases/download/releasewin/fishy.business.exe)
 [![image](https://github.com/user-attachments/assets/39cc71f2-e969-4d6e-a35f-37c99c8964d7)](google.com)
 
 Windows package ---- Debian package
