@@ -3,7 +3,7 @@ Welcome to the world of fishy business. Businesses are all fishy here. You can d
 
 
 [![image](https://github.com/user-attachments/assets/454d2240-675c-4772-8167-45874c413a5b)](google.com)
-[![image](https://github.com/user-attachments/assets/1dae1234-d032-48c6-b27e-bc639ddfac96)](google.com)
+[![image](https://github.com/user-attachments/assets/39cc71f2-e969-4d6e-a35f-37c99c8964d7)](google.com)
 
 Windows package ---- Debian package
 How to play:
