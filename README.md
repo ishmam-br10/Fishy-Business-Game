@@ -1,6 +1,7 @@
 # Fishy-Business-Game
 Welcome to the world of fishy business. Businesses are all fishy here. You can download the executable version from here,
-[![image](https://github.com/user-attachments/assets/ac496a54-ef39-49be-b4d5-b77d70a85f01)](google.com)
+[![image](https://github.com/user-attachments/assets/454d2240-675c-4772-8167-45874c413a5b)](google.com)
+[![image](https://github.com/user-attachments/assets/1dae1234-d032-48c6-b27e-bc639ddfac96)](google.com)
 
 Windows package ---- Debian package
 How to play:
@@ -10,6 +11,8 @@ How to play:
  - Do not try to be Walter White and Kill a bigger fish. If you do, you will Break Badly.
 
 Screenshots:
+
+
 ![image](https://github.com/user-attachments/assets/25fec89f-3367-4b49-afd2-0e8381557237)
 
 ![image](https://github.com/user-attachments/assets/f76979cb-4bc6-4784-97e2-e0445c34f31c)
