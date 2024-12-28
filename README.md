@@ -15,6 +15,8 @@ How to play:
 Screenshots:
 
 
+![image](https://github.com/user-attachments/assets/0144881b-0235-4625-a29b-38b549f566f2)
+
 ![image](https://github.com/user-attachments/assets/25fec89f-3367-4b49-afd2-0e8381557237)
 
 ![image](https://github.com/user-attachments/assets/f76979cb-4bc6-4784-97e2-e0445c34f31c)
